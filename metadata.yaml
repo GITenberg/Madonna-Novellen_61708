@@ -1,0 +1,30 @@
+_repo: Madonna-Novellen_61708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rosmer, Ernst
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '51576'
+    url: http://www.gutenberg.org/2009/agents/51576
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Elsa_Bernstein
+    - https://de.wikipedia.org/wiki/Elsa_Bernstein
+description: ''
+gutenberg_issued: '2020-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61708'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German'
+- !lcc 'PT'
+- !lcsh 'German fiction -- 19th century'
+- GITenberg
+tableOfContents: Madonna -- Corriger l'amour -- Platonisch -- In der Mauernstrasse
+  -- Milost pan.
+title: 'Madonna: Novellen'
+url: http://www.gutenberg.org/ebooks/61708
